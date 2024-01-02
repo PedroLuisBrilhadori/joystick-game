@@ -1,4 +1,4 @@
-HC = require('HC');
+HC = require('libs/HC');
 
 require('src/objects/ball')
 require('src/objects/map')
